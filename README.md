@@ -1,4 +1,4 @@
-# EDA_MarketingPerformanceParqueAtracciones
+# EDA_marketing_performance_parque_atracciones
  Visitor Profiling, Revenue Strategies and Digital Marketing Optimization.
 
 Jupyter Notebooks
